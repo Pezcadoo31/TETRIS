@@ -1,0 +1,143 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abdyv/OneDrive/Documentos/QUARTUS/VHDL/RETO/SEGMENTOS_7/simulation/qsim
+Ehard_block
+Z1 w1710173170
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 7d5Xo;QBOkc31OfQTzSXV0
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 IfY7Mh2WPBc;@7U@3<I^[0
+R0
+Z8 8SEGMENTOS_7.vho
+Z9 FSEGMENTOS_7.vho
+l0
+L34
+V8_BbEmGd;OHS6h@;gFc7W3
+!s100 ROH=D<N4CT6aCZ<37A[_?0
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1710173171
+!i10b 1
+Z12 !s108 1710173171.000000
+Z13 !s90 -work|work|SEGMENTOS_7.vho|
+Z14 !s107 SEGMENTOS_7.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 hard_block 0 22 8_BbEmGd;OHS6h@;gFc7W3
+l75
+L53
+Vg=W`CQ>24lhYF71zFSkY43
+!s100 zW6ML5NVY?Ai`]`n2XhME3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Esegmentos_7
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+R8
+R9
+l0
+L88
+V7eU<5@P@0Y[fb:3jD48zU0
+!s100 6871FJ]`9z7kW`SU:13Kn3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 11 segmentos_7 0 22 7eU<5@P@0Y[fb:3jD48zU0
+l152
+L109
+V@k<=>T0gIHeaaJdCgmNe70
+!s100 0=QOD63^@N<lEk;i=nY>_0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Esegmentos_7_vhd_vec_tst
+Z17 w1710173169
+R5
+R6
+R0
+Z18 8SEGMENTOS_7.vwf.vht
+Z19 FSEGMENTOS_7.vwf.vht
+l0
+L31
+Vc>fzA3B^HiNaQX3W[cK5H3
+!s100 :N@V>mOPjgBO^SU_J_a7Q3
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -work|work|SEGMENTOS_7.vwf.vht|
+Z21 !s107 SEGMENTOS_7.vwf.vht|
+!i113 1
+R15
+R16
+Asegmentos_7_arch
+R5
+R6
+DEx4 work 23 segmentos_7_vhd_vec_tst 0 22 c>fzA3B^HiNaQX3W[cK5H3
+l44
+L33
+VGWB=XS=jj<4RXgo>^]^Nn2
+!s100 FXgh7g697V:YR?n^Go@<^0
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 1
+R15
+R16

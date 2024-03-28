@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/abdyv/OneDrive/Documentos/QUARTUS/VHDL/RETO/DIVISOR_FRECUENCIA_25HZ/DIVISOR_FRECUENCIA_25HZ.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/intelfpga_lite/18.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/abdyv/OneDrive/Documentos/QUARTUS/VHDL/RETO/DIVISOR_FRECUENCIA_25HZ/db/DIVISOR_FRECUENCIA_25HZ.cbx.xml
+design_name = hard_block
+design_name = DIVISOR_FRECUENCIA_25HZ
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, DIVISOR_FRECUENCIA_25HZ, 1
+instance = comp, \clk25~output\, clk25~output, DIVISOR_FRECUENCIA_25HZ, 1
+instance = comp, \clk50~input\, clk50~input, DIVISOR_FRECUENCIA_25HZ, 1
+instance = comp, \clk25~2\, clk25~2, DIVISOR_FRECUENCIA_25HZ, 1
+instance = comp, \clk25~reg0\, clk25~reg0, DIVISOR_FRECUENCIA_25HZ, 1
+instance = comp, \clk25~input\, clk25~input, DIVISOR_FRECUENCIA_25HZ, 1
+instance = comp, \~QUARTUS_CREATED_UNVM~\, ~QUARTUS_CREATED_UNVM~, DIVISOR_FRECUENCIA_25HZ, 1
+instance = comp, \~QUARTUS_CREATED_ADC1~\, ~QUARTUS_CREATED_ADC1~, DIVISOR_FRECUENCIA_25HZ, 1

@@ -1,0 +1,473 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -11.238
+TNS   : -28.520
+
+Type  : Slow 1200mV 85C Model Setup 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : -6.954
+TNS   : -225.481
+
+Type  : Slow 1200mV 85C Model Setup 'RELOJ:RJ1|led'
+Slack : -4.270
+TNS   : -85.856
+
+Type  : Slow 1200mV 85C Model Setup 'RELOJ:RJ|led'
+Slack : -4.224
+TNS   : -67.870
+
+Type  : Slow 1200mV 85C Model Setup 'RELOJ:RJ3|led'
+Slack : -4.165
+TNS   : -84.130
+
+Type  : Slow 1200mV 85C Model Setup 'RELOJ:RJ2|led'
+Slack : -3.925
+TNS   : -78.847
+
+Type  : Slow 1200mV 85C Model Setup 'RELOJ:RJ5|led'
+Slack : -3.913
+TNS   : -76.521
+
+Type  : Slow 1200mV 85C Model Setup 'RELOJ:RJ4|led'
+Slack : -3.600
+TNS   : -68.803
+
+Type  : Slow 1200mV 85C Model Setup 'input_clk'
+Slack : -2.803
+TNS   : -46.719
+
+Type  : Slow 1200mV 85C Model Hold 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -0.791
+TNS   : -1.360
+
+Type  : Slow 1200mV 85C Model Hold 'input_clk'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'RELOJ:RJ1|led'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'RELOJ:RJ2|led'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'RELOJ:RJ3|led'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'RELOJ:RJ4|led'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'RELOJ:RJ5|led'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'RELOJ:RJ|led'
+Slack : 0.690
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : 1.130
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'RELOJ:RJ|led'
+Slack : -2.526
+TNS   : -2.526
+
+Type  : Slow 1200mV 85C Model Recovery 'RELOJ:RJ4|led'
+Slack : -2.162
+TNS   : -2.162
+
+Type  : Slow 1200mV 85C Model Recovery 'RELOJ:RJ5|led'
+Slack : -1.950
+TNS   : -1.950
+
+Type  : Slow 1200mV 85C Model Recovery 'RELOJ:RJ3|led'
+Slack : -1.852
+TNS   : -1.852
+
+Type  : Slow 1200mV 85C Model Recovery 'RELOJ:RJ1|led'
+Slack : -1.786
+TNS   : -1.786
+
+Type  : Slow 1200mV 85C Model Recovery 'RELOJ:RJ2|led'
+Slack : -1.533
+TNS   : -1.533
+
+Type  : Slow 1200mV 85C Model Removal 'RELOJ:RJ1|led'
+Slack : 1.462
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'RELOJ:RJ2|led'
+Slack : 1.513
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'RELOJ:RJ3|led'
+Slack : 1.760
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'RELOJ:RJ5|led'
+Slack : 1.829
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'RELOJ:RJ4|led'
+Slack : 2.115
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'RELOJ:RJ|led'
+Slack : 2.440
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'input_clk'
+Slack : -3.000
+TNS   : -38.075
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -1.985
+TNS   : -105.145
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : -1.403
+TNS   : -61.732
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RELOJ:RJ1|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RELOJ:RJ2|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RELOJ:RJ3|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RELOJ:RJ4|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RELOJ:RJ5|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RELOJ:RJ|led'
+Slack : -1.403
+TNS   : -26.657
+
+Type  : Slow 1200mV 0C Model Setup 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -10.531
+TNS   : -26.473
+
+Type  : Slow 1200mV 0C Model Setup 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : -6.302
+TNS   : -204.284
+
+Type  : Slow 1200mV 0C Model Setup 'RELOJ:RJ|led'
+Slack : -3.814
+TNS   : -61.360
+
+Type  : Slow 1200mV 0C Model Setup 'RELOJ:RJ1|led'
+Slack : -3.808
+TNS   : -76.700
+
+Type  : Slow 1200mV 0C Model Setup 'RELOJ:RJ3|led'
+Slack : -3.758
+TNS   : -76.410
+
+Type  : Slow 1200mV 0C Model Setup 'RELOJ:RJ5|led'
+Slack : -3.526
+TNS   : -69.354
+
+Type  : Slow 1200mV 0C Model Setup 'RELOJ:RJ2|led'
+Slack : -3.472
+TNS   : -70.314
+
+Type  : Slow 1200mV 0C Model Setup 'RELOJ:RJ4|led'
+Slack : -3.248
+TNS   : -61.731
+
+Type  : Slow 1200mV 0C Model Setup 'input_clk'
+Slack : -2.531
+TNS   : -40.870
+
+Type  : Slow 1200mV 0C Model Hold 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -0.682
+TNS   : -1.255
+
+Type  : Slow 1200mV 0C Model Hold 'input_clk'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'RELOJ:RJ1|led'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'RELOJ:RJ2|led'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'RELOJ:RJ3|led'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'RELOJ:RJ4|led'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'RELOJ:RJ5|led'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'RELOJ:RJ|led'
+Slack : 0.638
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : 1.034
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'RELOJ:RJ|led'
+Slack : -2.235
+TNS   : -2.235
+
+Type  : Slow 1200mV 0C Model Recovery 'RELOJ:RJ4|led'
+Slack : -1.913
+TNS   : -1.913
+
+Type  : Slow 1200mV 0C Model Recovery 'RELOJ:RJ5|led'
+Slack : -1.672
+TNS   : -1.672
+
+Type  : Slow 1200mV 0C Model Recovery 'RELOJ:RJ3|led'
+Slack : -1.578
+TNS   : -1.578
+
+Type  : Slow 1200mV 0C Model Recovery 'RELOJ:RJ1|led'
+Slack : -1.563
+TNS   : -1.563
+
+Type  : Slow 1200mV 0C Model Recovery 'RELOJ:RJ2|led'
+Slack : -1.299
+TNS   : -1.299
+
+Type  : Slow 1200mV 0C Model Removal 'RELOJ:RJ1|led'
+Slack : 1.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'RELOJ:RJ2|led'
+Slack : 1.406
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'RELOJ:RJ3|led'
+Slack : 1.634
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'RELOJ:RJ5|led'
+Slack : 1.661
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'RELOJ:RJ4|led'
+Slack : 1.917
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'RELOJ:RJ|led'
+Slack : 2.235
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'input_clk'
+Slack : -3.000
+TNS   : -38.075
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -1.798
+TNS   : -91.409
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : -1.403
+TNS   : -61.732
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ1|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ2|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ3|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ4|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ5|led'
+Slack : -1.403
+TNS   : -29.463
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ|led'
+Slack : -1.403
+TNS   : -26.657
+
+Type  : Fast 1200mV 0C Model Setup 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -4.679
+TNS   : -11.630
+
+Type  : Fast 1200mV 0C Model Setup 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : -2.630
+TNS   : -75.638
+
+Type  : Fast 1200mV 0C Model Setup 'RELOJ:RJ1|led'
+Slack : -1.336
+TNS   : -25.423
+
+Type  : Fast 1200mV 0C Model Setup 'RELOJ:RJ|led'
+Slack : -1.213
+TNS   : -18.456
+
+Type  : Fast 1200mV 0C Model Setup 'RELOJ:RJ3|led'
+Slack : -1.198
+TNS   : -23.786
+
+Type  : Fast 1200mV 0C Model Setup 'RELOJ:RJ2|led'
+Slack : -1.083
+TNS   : -21.287
+
+Type  : Fast 1200mV 0C Model Setup 'RELOJ:RJ5|led'
+Slack : -1.031
+TNS   : -19.716
+
+Type  : Fast 1200mV 0C Model Setup 'RELOJ:RJ4|led'
+Slack : -0.942
+TNS   : -16.645
+
+Type  : Fast 1200mV 0C Model Setup 'input_clk'
+Slack : -0.618
+TNS   : -6.622
+
+Type  : Fast 1200mV 0C Model Hold 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -0.326
+TNS   : -0.605
+
+Type  : Fast 1200mV 0C Model Hold 'input_clk'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'RELOJ:RJ1|led'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'RELOJ:RJ2|led'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'RELOJ:RJ3|led'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'RELOJ:RJ4|led'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'RELOJ:RJ5|led'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'RELOJ:RJ|led'
+Slack : 0.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'RELOJ:RJ|led'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Fast 1200mV 0C Model Recovery 'RELOJ:RJ4|led'
+Slack : -0.388
+TNS   : -0.388
+
+Type  : Fast 1200mV 0C Model Recovery 'RELOJ:RJ5|led'
+Slack : -0.286
+TNS   : -0.286
+
+Type  : Fast 1200mV 0C Model Recovery 'RELOJ:RJ3|led'
+Slack : -0.250
+TNS   : -0.250
+
+Type  : Fast 1200mV 0C Model Recovery 'RELOJ:RJ1|led'
+Slack : -0.181
+TNS   : -0.181
+
+Type  : Fast 1200mV 0C Model Recovery 'RELOJ:RJ2|led'
+Slack : -0.093
+TNS   : -0.093
+
+Type  : Fast 1200mV 0C Model Removal 'RELOJ:RJ1|led'
+Slack : 0.611
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'RELOJ:RJ2|led'
+Slack : 0.633
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'RELOJ:RJ3|led'
+Slack : 0.735
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'RELOJ:RJ5|led'
+Slack : 0.797
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'RELOJ:RJ4|led'
+Slack : 0.922
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'RELOJ:RJ|led'
+Slack : 1.022
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'input_clk'
+Slack : -3.000
+TNS   : -28.828
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVISOR_FRECUENCIA_25HZ:CLK|clk25~reg0'
+Slack : -1.000
+TNS   : -44.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ1|led'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ2|led'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ3|led'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ4|led'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ5|led'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RELOJ:RJ|led'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CONTROLADOR_VGA:C_VGA|column[0]'
+Slack : -0.543
+TNS   : -20.281
+
+------------------------------------------------------------

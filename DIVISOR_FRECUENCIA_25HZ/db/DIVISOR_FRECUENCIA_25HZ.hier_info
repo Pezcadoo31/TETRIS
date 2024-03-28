@@ -1,0 +1,5 @@
+|DIVISOR_FRECUENCIA_25HZ
+clk50 => clk25~reg0.CLK
+clk25 <> clk25~reg0
+
+
